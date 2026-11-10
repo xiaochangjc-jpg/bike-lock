@@ -193,6 +193,7 @@ h1 {
 .facts li:nth-child(2) { animation-delay: 600ms; }
 .facts li:nth-child(3) { animation-delay: 800ms; }
 .facts li:nth-child(4) { animation-delay: 1000ms; }
+.facts li:nth-child(5) { animation-delay: 1200ms;}
 
 @keyframes panel-arrive {
   from { opacity: 0; transform: translateY(1rem); }
